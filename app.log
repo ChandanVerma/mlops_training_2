@@ -21,3 +21,13 @@
 [I 240909 21:33:20 flask_app:11] Flask app started
 [I 240909 21:33:36 flask_app:11] Flask app started
 [I 240909 21:33:45 flask_app:11] Flask app started
+[I 240910 20:24:39 flask_app:11] Flask app started
+[I 240910 20:24:39 flask_app:29] A request was made at 2024-09-10 20:24:39 with INPUT DATA {'age': 40, 'estimated_salary': 522222}  and the response was Likely to purchase
+[I 240910 20:25:15 flask_app:11] Flask app started
+[I 240910 20:25:15 flask_app:29] A request was made at 2024-09-10 20:25:15.391404 with INPUT DATA {'age': 40, 'estimated_salary': 522222}  and the response was Likely to purchase
+[I 240910 20:25:43 flask_app:11] Flask app started
+[I 240910 20:25:43 flask_app:29] A request was made at 2024-09-10 20:25:43.548214 with INPUT DATA {'age': 40, 'estimated_salary': 522222}  and the response was Likely to purchase
+[I 240910 20:26:05 flask_app:11] Flask app started
+[I 240910 20:26:05 flask_app:29] A request was made at 2024-09-10 20:26:05.194293 with INPUT DATA {'age': 40, 'estimated_salary': 522222}  and the response was Likely to purchase
+[I 240910 20:27:30 flask_app:11] Flask app started
+[I 240910 20:27:30 flask_app:29] A request was made at 2024-09-10 20:27:30.559341 with INPUT DATA {'age': 40, 'estimated_salary': 522222}  and the response was Likely to purchase

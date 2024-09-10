@@ -25,7 +25,7 @@ def predict():
             prediction_result = "Not likely to purchase"
         elif prediction[0] == 1:
             prediction_result = "Likely to purchase"       
-        current_datetime = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        current_datetime = datetime.now()
         logger.info(f'A request was made at {current_datetime} with INPUT DATA {input_data}  and the response was {prediction_result}')
         return jsonify({'prediction': prediction_result}), 200
 
