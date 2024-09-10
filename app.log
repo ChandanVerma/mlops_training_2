@@ -1,0 +1,23 @@
+[I 240906 22:11:13 flask_app:11] Flask app started
+[I 240906 22:11:13 flask_app:11] Flask app started
+[I 240906 22:30:55 flask_app:29] A request was made at 2024-09-06 22:30:55 with INPUT DATA {'age': 25, 'estimated_salary': 500000}  and the response was Likely to purchase
+[I 240906 22:45:37 flask_app:29] A request was made at 2024-09-06 22:45:37 with INPUT DATA {'age': 25, 'estimated_salary': 500000}  and the response was Likely to purchase
+[I 240906 22:45:38 flask_app:29] A request was made at 2024-09-06 22:45:38 with INPUT DATA {'age': 25, 'estimated_salary': 500000}  and the response was Likely to purchase
+[I 240906 22:45:38 flask_app:29] A request was made at 2024-09-06 22:45:38 with INPUT DATA {'age': 25, 'estimated_salary': 500000}  and the response was Likely to purchase
+[I 240906 22:45:38 flask_app:29] A request was made at 2024-09-06 22:45:38 with INPUT DATA {'age': 25, 'estimated_salary': 500000}  and the response was Likely to purchase
+[I 240906 22:45:38 flask_app:29] A request was made at 2024-09-06 22:45:38 with INPUT DATA {'age': 25, 'estimated_salary': 500000}  and the response was Likely to purchase
+[I 240906 22:45:38 flask_app:29] A request was made at 2024-09-06 22:45:38 with INPUT DATA {'age': 25, 'estimated_salary': 500000}  and the response was Likely to purchase
+[I 240906 22:45:39 flask_app:29] A request was made at 2024-09-06 22:45:39 with INPUT DATA {'age': 25, 'estimated_salary': 500000}  and the response was Likely to purchase
+[I 240906 22:45:39 flask_app:29] A request was made at 2024-09-06 22:45:39 with INPUT DATA {'age': 25, 'estimated_salary': 500000}  and the response was Likely to purchase
+[I 240909 21:13:35 flask_app:11] Flask app started
+[I 240909 21:15:23 flask_app:11] Flask app started
+[I 240909 21:15:24 flask_app:11] Flask app started
+[I 240909 21:17:24 flask_app:11] Flask app started
+[I 240909 21:18:49 flask_app:11] Flask app started
+[I 240909 21:21:07 flask_app:11] Flask app started
+[I 240909 21:22:39 flask_app:11] Flask app started
+[I 240909 21:28:55 flask_app:11] Flask app started
+[I 240909 21:30:46 flask_app:11] Flask app started
+[I 240909 21:33:20 flask_app:11] Flask app started
+[I 240909 21:33:36 flask_app:11] Flask app started
+[I 240909 21:33:45 flask_app:11] Flask app started
